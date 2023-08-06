@@ -7,7 +7,7 @@ function Card(props) {
       <div className=" absolute top-[-7rem] z-10 mx-auto">
         <img
           src={review.image}
-          alt={`${review.name}'s image here`}
+          alt="here!"
           className=" aspect-square w-[140px] rounded-full object-cover"
         />
         <div className=" bg-violet-500 rounded-full aspect-square w-[140px] z-[-2] absolute top-[-6px] left-[10px] "></div>
